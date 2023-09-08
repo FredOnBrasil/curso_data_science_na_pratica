@@ -14,8 +14,8 @@ Material complementar ao treinamento online "Data Science na Prática".
 
 ## Conteúdo do curso "Data Science na Prática"
 
-* **MÓDULO 1:** [Introdução ao Data Science](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_01)
-* **MÓDULO 2:**  [Manipulando Dados com o Pandas](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_02)
-* **MÓDULO 3:** [Visualizando Dados](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_03)
+* **MÓDULO 1:** [Introdução ao Data Science](https://github.com/FredOnBrasil/curso_data_science_na_pratica/tree/master/modulo_01)
+* **MÓDULO 2:**  [Manipulando Dados com o Pandas](https://github.com/FredOnBrasil/curso_data_science_na_pratica/tree/master/modulo_02)
+* **MÓDULO 3:** [Visualizando Dados](https://github.com/FredOnBrasil/curso_data_science_na_pratica/tree/master/modulo_03)
 
 ---
